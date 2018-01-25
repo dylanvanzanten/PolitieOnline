@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="590px" height="256px" viewBox="0 0 590 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="36" y="180" width="150" height="75"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="150" height="75" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="straat" transform="translate(-3940.000000, -31.000000)">
+            <g id="Group-2" transform="translate(3941.000000, 32.000000)">
+                <text id="Politieen-socia" font-family="BLOKKNeue-Regular, BLOKK Neue" font-size="12" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="42" y="195">Politieen socia</tspan>
+                </text>
+                <text id="ssask-clak-socia" font-family="BLOKKNeue-Regular, BLOKK Neue" font-size="12" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="42" y="205">ssask clak socia</tspan>
+                </text>
+                <text id="ajcbvabaiaobvdda" font-family="BLOKKNeue-Regular, BLOKK Neue" font-size="12" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="42" y="215">ajcbvabaiaobvdda</tspan>
+                </text>
+                <text id="Politaenaaaa-soci" font-family="BLOKKNeue-Regular, BLOKK Neue" font-size="12" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="42" y="225">Politaenaaaa soci</tspan>
+                </text>
+                <text id="Politie-iuabuidvb" font-family="BLOKKNeue-Regular, BLOKK Neue" font-size="12" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="42" y="235">Politie iuabuidvb</tspan>
+                </text>
+                <text id="aasdcbbiobv" font-family="BLOKKNeue-Regular, BLOKK Neue" font-size="12" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="42" y="245">aasdcbbiobv</tspan>
+                </text>
+                <use id="Rectangle-3" stroke="#FFFFFF" mask="url(#mask-2)" stroke-width="4" opacity="0.5" stroke-dasharray="1,3" xlink:href="#path-1"></use>
+                <ellipse id="Oval-Copy" stroke="#FFFFFF" cx="15" cy="177" rx="15" ry="15"></ellipse>
+                <circle id="Oval-Copy-2" fill="#FFFFFF" cx="15.5" cy="177.5" r="2.5"></circle>
+                <ellipse id="Oval-Copy" stroke="#FFFFFF" cx="405" cy="15" rx="15" ry="15"></ellipse>
+                <circle id="Oval-Copy-2" fill="#FFFFFF" cx="405.5" cy="15.5" r="2.5"></circle>
+                <path d="M15.6089373,177.5 L405.5,15.5" id="Path-2" stroke="#FFFFFF"></path>
+                <path d="M604.5,206.5 L405.5,15.5" id="Path-2" stroke="#FFFFFF"></path>
+                <path d="M37,187 L37,184 C37,182.343146 38.3465171,181 40,181 L43,181" id="Path-3" stroke="#FFFFFF" stroke-width="2"></path>
+                <path d="M179,187 L179,184 C179,182.343146 180.346517,181 182,181 L185,181" id="Path-3-Copy" stroke="#FFFFFF" stroke-width="2" transform="translate(182.000000, 184.000000) rotate(-270.000000) translate(-182.000000, -184.000000) "></path>
+                <path d="M37,254 L37,251 C37,249.343146 38.3465171,248 40,248 L43,248" id="Path-3" stroke="#FFFFFF" stroke-width="2" transform="translate(40.000000, 251.000000) rotate(-90.000000) translate(-40.000000, -251.000000) "></path>
+                <path d="M179,254 L179,251 C179,249.343146 180.346517,248 182,248 L185,248" id="Path-3-Copy" stroke="#FFFFFF" stroke-width="2" transform="translate(182.000000, 251.000000) rotate(-180.000000) translate(-182.000000, -251.000000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

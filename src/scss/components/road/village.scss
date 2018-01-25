@@ -1,0 +1,18 @@
+.street-holder {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+}
+
+#road-village-component{
+  height:100%;
+  flex: 0 0 auto;
+  margin-right:-67px;
+
+  .image-holder{
+    height:100%;
+  }
+  .street, .sidewalk {
+    height: 100%;
+  }
+}

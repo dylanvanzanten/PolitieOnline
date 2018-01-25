@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="475px" height="339px" viewBox="0 0 475 339" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>lines copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="detail-herkenningspunt-1-vervolg-v2" transform="translate(-443.000000, 0.000000)">
+            <g id="lines-copy" transform="translate(733.513376, 124.194620) rotate(-285.000000) translate(-733.513376, -124.194620) translate(525.013376, -123.805380)">
+                <circle id="Oval" stroke="#485253" cx="402" cy="295" r="15"></circle>
+                <circle id="Oval-Copy" stroke="#485253" cx="15" cy="481" r="15"></circle>
+                <ellipse id="Oval" fill="#485253" cx="401.5" cy="295.5" rx="2.5" ry="2.5"></ellipse>
+                <ellipse id="Oval-Copy-2" fill="#485253" cx="15.5" cy="481.5" rx="2.5" ry="2.5"></ellipse>
+                <path d="M16,481.802922 L402.49292,295" id="Path-2" stroke="#485253"></path>
+                <path d="M96.0383441,0.471839895 L402.49292,295" id="Path-2" stroke="#485253"></path>
+            </g>
+        </g>
+    </g>
+</svg>

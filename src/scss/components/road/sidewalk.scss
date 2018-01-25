@@ -1,0 +1,63 @@
+.street-holder {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+
+#sidewalk-village-component {
+    height: 100%;
+    flex: 0 0 auto;
+    margin-right: -67px;
+    position: absolute;
+    top: 0;
+    .image-holder {
+        height: 100%;
+    }
+    .sidewalk {
+        height: 100%;
+    }
+}
+
+.police-car {
+    position: fixed;
+    left: 40%;
+    bottom: 12%;
+    width: 40%;
+}
+
+@media only screen and (min-width:60.000em) {
+    .police-car {
+        position: fixed;
+        left: 70%;
+        bottom: 12%;
+        width: 20%;
+    }
+}
+
+@media only screen and (min-width:48.000em) {
+    .police-car {
+        left: 60%;
+        width: 35%;
+    }
+}
+
+.point-button-holder {
+    position: absolute;
+    z-index: 10;
+}
+
+
+
+
+
+.point-button {
+    bottom: 50%;
+    &:hover .point-content{
+        visibility: visible;
+    }
+}
+
+.point-content {
+    visibility: hidden;
+}
+

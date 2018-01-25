@@ -1,0 +1,12 @@
+@import 'road/intro';
+@import 'road/village';
+@import 'road/sidewalk';
+@import 'road/content';
+
+#road-component{
+  display: flex;
+  flex-wrap: nowrap;
+  overflow-x: auto;
+  overflow-y: hidden;
+  height:100%;
+}
