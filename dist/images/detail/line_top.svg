@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="419px" height="335px" viewBox="0 0 419 335" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>lines</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="detail-herkenningspunt-persoonlijke-kenmerken" transform="translate(-801.000000, 0.000000)">
+            <g id="lines" transform="translate(802.000000, -31.000000)">
+                <circle id="Oval" stroke="#485253" cx="402" cy="164" r="15"></circle>
+                <ellipse id="Oval-Copy" stroke="#485253" cx="15" cy="350" rx="15" ry="15"></ellipse>
+                <circle id="Oval" fill="#485253" cx="401.5" cy="164.5" r="2.5"></circle>
+                <circle id="Oval-Copy-2" fill="#485253" cx="15.5" cy="350.5" r="2.5"></circle>
+                <path d="M16,350.802922 L402.49292,164" id="Path-2" stroke="#485253"></path>
+                <path d="M346.608937,0.5 L402.49292,164" id="Path-2" stroke="#485253"></path>
+            </g>
+        </g>
+    </g>
+</svg>

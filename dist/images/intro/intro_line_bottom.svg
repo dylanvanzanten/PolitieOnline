@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="533px" height="284px" viewBox="0 0 533 284" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="522" y="14" width="150" height="75" rx="4"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="150" height="75" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="splash-combi-liggend" transform="translate(0.000000, -681.000000)">
+            <g id="Group-2" transform="translate(-139.000000, 682.000000)">
+                <text id="Politie-en-socia" font-family="BLOKKNeue-Regular, BLOKK Neue" font-size="12" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="528" y="29">Politie en socia</tspan>
+                </text>
+                <text id="Politiecac-socia" font-family="BLOKKNeue-Regular, BLOKK Neue" font-size="12" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="528" y="39">Politiecac socia</tspan>
+                </text>
+                <text id="ajcbvb-aiaobvdda" font-family="BLOKKNeue-Regular, BLOKK Neue" font-size="12" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="528" y="49">ajcbvb aiaobvdda</tspan>
+                </text>
+                <text id="Politaen-socia" font-family="BLOKKNeue-Regular, BLOKK Neue" font-size="12" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="528" y="59">Politaen socia</tspan>
+                </text>
+                <text id="Politie-ensocia" font-family="BLOKKNeue-Regular, BLOKK Neue" font-size="12" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="528" y="69">Politie ensocia</tspan>
+                </text>
+                <text id="Politia" font-family="BLOKKNeue-Regular, BLOKK Neue" font-size="12" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="528" y="79">Politia</tspan>
+                </text>
+                <use id="Rectangle-3" stroke="#FFFFFF" mask="url(#mask-2)" stroke-width="4" opacity="0.5" stroke-dasharray="1,3" xlink:href="#path-1"></use>
+                <ellipse id="Oval-Copy-3" stroke="#FFFFFF" cx="502" cy="15" rx="15" ry="15"></ellipse>
+                <ellipse id="Oval-Copy-5" fill="#FFFFFF" cx="501.5" cy="15.5" rx="2.5" ry="2.5"></ellipse>
+                <path d="M286.5,267.5 L502.5,14.5" id="Path-2-Copy" stroke="#FFFFFF"></path>
+                <path d="M286.5,267.5 L0.5,37.5" id="Path-2-Copy" stroke="#FFFFFF"></path>
+                <ellipse id="Oval-Copy-4" stroke="#FFFFFF" cx="286" cy="267" rx="15" ry="15"></ellipse>
+                <ellipse id="Oval-Copy-6" fill="#FFFFFF" cx="286.5" cy="267.5" rx="2.5" ry="2.5"></ellipse>
+                <path d="M523,21 L523,18 C523,16.3431458 524.346517,15 526,15 L529,15" id="Path-3" stroke="#FFFFFF" stroke-width="2"></path>
+                <path d="M665,21 L665,18 C665,16.3431458 666.346517,15 668,15 L671,15" id="Path-3-Copy" stroke="#FFFFFF" stroke-width="2" transform="translate(668.000000, 18.000000) rotate(-270.000000) translate(-668.000000, -18.000000) "></path>
+                <path d="M523,88 L523,85 C523,83.3431458 524.346517,82 526,82 L529,82" id="Path-3" stroke="#FFFFFF" stroke-width="2" transform="translate(526.000000, 85.000000) rotate(-90.000000) translate(-526.000000, -85.000000) "></path>
+                <path d="M665,88 L665,85 C665,83.3431458 666.346517,82 668,82 L671,82" id="Path-3-Copy" stroke="#FFFFFF" stroke-width="2" transform="translate(668.000000, 85.000000) rotate(-180.000000) translate(-668.000000, -85.000000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

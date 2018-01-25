@@ -1,0 +1,100 @@
+.street-holder {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+
+#sidewalk-village-component {
+    height: 100%;
+    flex: 0 0 auto;
+    margin-right: -67px;
+    position: absolute;
+    top: 0;
+    z-index: 2;
+    .image-holder {
+        height: 100%;
+    }
+    .sidewalk {
+        height: 100%;
+    }
+}
+
+.police-car {
+    position: fixed;
+    left: 40%;
+    bottom: 12%;
+    width: 40%;
+    z-index: -1;
+}
+
+@media only screen and (min-width:60.000em) {
+    .police-car {
+        position: fixed;
+        left: 70%;
+        bottom: 12%;
+        width: 20%;
+    }
+}
+
+@media only screen and (min-width:48.000em) {
+    .police-car {
+        left: 60%;
+        width: 35%;
+    }
+}
+
+.point-button-holder {
+    display: flex;
+    order: 3;
+    z-index: 10;
+    .point-button {
+        border: none;
+        width: 50px;
+        height: 50px;
+        border: solid 2px $white;
+        border-radius: 100%;
+        background: transparent;
+        &:hover{
+            background: $white;
+        }
+    }
+    .point-button:nth-child(1) {
+        left: 15%;
+        top: 45%;
+    }
+    .point-button:nth-child(2) {
+        left: 25%;
+        top: 65%;
+    }
+    .point-button:nth-child(3) {
+        left: 50%;
+        top: 75%;
+    }
+    .point-button:nth-child(4) {
+        left: 60%;
+        top: 70%;
+    }
+    .point-button:nth-child(5) {
+        left: 75%;
+        top: 35%;
+    }
+    .point-content {
+        position: absolute;
+        width: 20em;
+        top: 2em;
+        left: 5em;
+        visibility: hidden;
+        text-align: left;
+        background: $white;
+        padding: 1em;
+        border-radius: 5px;
+        opacity: 0.8;
+    }
+}
+
+.point-button {
+    position: absolute;
+    &:hover .point-content {
+        visibility: visible;
+    }
+}

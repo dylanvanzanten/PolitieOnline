@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="759px" height="208px" viewBox="0 0 759 208" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="80" width="150" height="75"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="150" height="75" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="straat" transform="translate(-3717.000000, -807.000000)">
+            <g id="Group-2" transform="translate(4096.500000, 910.500000) scale(1, -1) translate(-4096.500000, -910.500000) translate(3717.000000, 807.000000)">
+                <text id="Politieen-socia" font-family="BLOKKNeue-Regular, BLOKK Neue" font-size="12" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="6" y="95">Politieen socia</tspan>
+                </text>
+                <text id="ssask-clak-socia" font-family="BLOKKNeue-Regular, BLOKK Neue" font-size="12" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="6" y="105">ssask clak socia</tspan>
+                </text>
+                <text id="ajcbvabaiaobvdda" font-family="BLOKKNeue-Regular, BLOKK Neue" font-size="12" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="6" y="115">ajcbvabaiaobvdda</tspan>
+                </text>
+                <text id="Politaenaaaa-soci" font-family="BLOKKNeue-Regular, BLOKK Neue" font-size="12" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="6" y="125">Politaenaaaa soci</tspan>
+                </text>
+                <text id="Politie-iuabuidvb" font-family="BLOKKNeue-Regular, BLOKK Neue" font-size="12" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="6" y="135">Politie iuabuidvb</tspan>
+                </text>
+                <text id="aasdcbbiobv" font-family="BLOKKNeue-Regular, BLOKK Neue" font-size="12" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="6" y="145">aasdcbbiobv</tspan>
+                </text>
+                <use id="Rectangle-3" stroke="#FFFFFF" mask="url(#mask-2)" stroke-width="4" opacity="0.5" stroke-dasharray="1,3" xlink:href="#path-1"></use>
+                <ellipse id="Oval-Copy" stroke="#FFFFFF" cx="169" cy="177" rx="15" ry="15"></ellipse>
+                <circle id="Oval-Copy-2" fill="#FFFFFF" cx="169.5" cy="177.5" r="2.5"></circle>
+                <ellipse id="Oval-Copy" stroke="#FFFFFF" cx="559" cy="15" rx="15" ry="15"></ellipse>
+                <circle id="Oval-Copy-2" fill="#FFFFFF" cx="559.5" cy="15.5" r="2.5"></circle>
+                <path d="M169.608937,177.5 L559.5,15.5" id="Path-2" stroke="#FFFFFF"></path>
+                <path d="M758.5,206.5 L559.5,15.5" id="Path-2" stroke="#FFFFFF"></path>
+                <path d="M1,87 L1,84 C1,82.3431458 2.34651712,81 4,81 L7,81" id="Path-3" stroke="#FFFFFF" stroke-width="2"></path>
+                <path d="M143,87 L143,84 C143,82.3431458 144.346517,81 146,81 L149,81" id="Path-3-Copy" stroke="#FFFFFF" stroke-width="2" transform="translate(146.000000, 84.000000) rotate(-270.000000) translate(-146.000000, -84.000000) "></path>
+                <path d="M1,154 L1,151 C1,149.343146 2.34651712,148 4,148 L7,148" id="Path-3" stroke="#FFFFFF" stroke-width="2" transform="translate(4.000000, 151.000000) rotate(-90.000000) translate(-4.000000, -151.000000) "></path>
+                <path d="M143,154 L143,151 C143,149.343146 144.346517,148 146,148 L149,148" id="Path-3-Copy" stroke="#FFFFFF" stroke-width="2" transform="translate(146.000000, 151.000000) rotate(-180.000000) translate(-146.000000, -151.000000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>
