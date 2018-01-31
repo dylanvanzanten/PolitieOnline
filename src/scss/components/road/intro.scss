@@ -22,7 +22,21 @@
 }
 
 .intro-c2a {
+  font-family: $secondaryFont;
+  font-weight: $font-weight-bold;
+  display: block;
   text-decoration: none;
+}
+
+.btn.info {
+  display: inline-block;
+  background: transparent;
+  border: solid 1px $white;
+  &:hover {
+    background: $white;
+    color: $blue;
+    opacity: 1;
+  }
 }
 
 .intro-c2a svg {
@@ -63,13 +77,23 @@
   }
 }
 
+.street-start {
+  display: none;
+}
+
 @media only screen and (min-width:48.000em) {
+  .street-start {
+    position: absolute;
+    top: 0;
+    right: 0;
+    height: 100%;
+    width: auto;
+    z-index: -3;
+    display: block;
+  }
   #road-intro-component {
-    background: url('./images/street_end.png');
-    background-size: auto 100%;
-    background-position: -55px 0;
     overflow: hidden;
-    z-index: -2;
+    z-index: 0;
     .background-overlap {
       width: 50%;
       height: 100%;

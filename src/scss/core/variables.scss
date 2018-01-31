@@ -1,4 +1,4 @@
-  $bodyFont: 'TisaOT',
+  $bodyFont: 'Tissa Pro Regular',
   sans-serif;
   $secondaryFont: 'Relative',
   sans-serif;
@@ -25,6 +25,7 @@
     font-family: $bodyFont;
     color: $white;
     font-size: 16px;
+    overflow-x: hidden;
   }
 
   h1 {
@@ -138,15 +139,16 @@
   }
 
   .text-component.end {
-    margin: 15em 2em auto;
+    margin: 8em 2em auto;
   }
 
   @media only screen and (min-width:48.000em) {
     .text-component {
       max-width: 40%;
+      margin: 10em 2.4em 0;
     }
     .text-component.end {
-      margin: 15em 10em 0 auto;
+      margin: 15em 5em 0 auto;
     }
   }
 
@@ -171,7 +173,7 @@
     font-family: $secondaryFont;
     font-weight: $font-weight-regular;
     text-decoration: none;
-    margin: 3em auto;
+    margin: 2em auto;
     &:hover {
       opacity: 0.8;
     }
@@ -216,19 +218,24 @@
   .line-bottom {
     bottom: 0;
     left: 0;
+    z-index: 1;
   }
 
   .line-top {
-    top: 0;
-    right: 20%;
+    top: -5%;
+    right: -55%;
+    z-index: 1;
   }
 
-  @media only screen and (min-width:60.000em) {
+  @media only screen and (min-width:48em) {
+    .line-top.end, .line-bottom.end {
+      z-index: 1;
+    }
     .line-top.end {
-      right: -70%;
+      left: 16%;
     }
     .line-bottom.end {
-      left: 62%;
+      left: 2%;
     }
   }
 
@@ -236,9 +243,6 @@
     .line {
       position: absolute;
       display: block; 
-    }
-    .line-top {
-      right: -45%;
     }
   }
 

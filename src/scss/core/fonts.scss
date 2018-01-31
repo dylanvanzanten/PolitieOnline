@@ -1,63 +1,19 @@
 @font-face {
-    font-family: 'Relative';
-    src: url('../dist/fonts/Relative-Bold.woff2') format('woff2'),
-        url('../dist/fonts/Relative-Bold.woff') format('woff');
-    font-weight: bold;
-    font-style: normal;
+    font-family: "Relative Bold";
+    src: url(../dist/fonts/Relative-Bold.woff2) format("woff2"), url(../dist/fonts/Relative-Bold.woff) format("woff"), url(../dist/fonts/Relative-Bold.ttf) format("truetype"), url(../dist/fonts/Relative-Bold.otf) format("opentype");
 }
 
 @font-face {
-    font-family: 'Relative';
-    src: url('../dist/fonts/Relative-Medium.woff2') format('woff2'),
-        url('../dist/fonts/Relative-Medium.woff') format('woff');
-    font-weight: 500;
-    font-style: normal;
+    font-family: "Relative Book";
+    src: url(../dist/fonts/Relative-Book.woff2) format("woff2"), url(../dist/fonts/Relative-Book.woff) format("woff"), url(../dist/fonts/Relative-Book.ttf) format("truetype"), url(../dist/fonts/Relative-Book.otf) format("opentype");
 }
 
 @font-face {
-    font-family: 'Relative';
-    src: url('../dist/fonts/Relative-Book.woff2') format('woff2'),
-        url('../dist/fonts/Relative-Book.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
+    font-family: "Relative Medium";
+    src: url(../dist/fonts/Relative-Medium.woff2) format("woff2"), url(../dist/fonts/Relative-Medium.woff) format("woff"), url(../dist/fonts/Relative-Medium.ttf) format("truetype"), url(../dist/fonts/Relative-Medium.otf) format("opentype");
 }
 
 @font-face {
-    font-family: 'Relative';
-    src: url('../dist/fonts/Relative-BookItalic.woff2') format('woff2'),
-        url('../dist/fonts/Relative-BookItalic.woff') format('woff');
-    font-weight: normal;
-    font-style: italic;
-}
-
-@font-face {
-    font-family: 'TisaOT-BoldIta';
-    src: url('../dist/fonts/TisaOT-BoldIta.woff2') format('woff2'),
-        url('../dist/fonts/TisaOT-BoldIta.woff') format('woff');
-    font-weight: bold;
-    font-style: italic;
-}
-
-@font-face {
-    font-family: 'TisaOT';
-    src: url('../dist/fonts/TisaOT.woff2') format('woff2'),
-        url('../dist/fonts/TisaOT.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'TisaOT-Ita';
-    src: url('../dist/fonts/TisaOT-Ita.woff2') format('woff2'),
-        url('../dist/fonts/TisaOT-Ita.woff') format('woff');
-    font-weight: normal;
-    font-style: italic;
-}
-
-@font-face {
-    font-family: 'TisaOT';
-    src: url('../dist/fonts/TisaOT-Bold.woff2') format('woff2'),
-        url('../dist/fonts/TisaOT-Bold.woff') format('woff');
-    font-weight: bold;
-    font-style: normal;
+    font-family: "Tissa Pro Regular";
+    src: url(../dist/fonts/TissaProRegular.woff2) format("woff2"), url(../dist/fonts/TissaProRegular.woff) format("woff"), url(../dist/fonts/TissaProRegular.ttf) format("truetype"), url(../dist/fonts/TissaProRegular.otf) format("opentype");
 }

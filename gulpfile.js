@@ -31,14 +31,14 @@ gulp.task('watch', function () {
 });
 
 gulp.task('scripts', () => {
-    return browserify({entries: srcFolder + 'js/app.js', debug: false})
+    return browserify({entries: srcFolder + 'index.js', debug: false})
         .transform("babelify", { presets: ["es2015"] })
         .bundle()
-        .pipe(source('app.js'))
+        .pipe(source('index.js'))
         .pipe(buffer())
         .pipe(gp_sourcemaps.init())
         // .pipe(gp_uglify())
-        .pipe(gp_concat('app.js'))
+        .pipe(gp_concat('index.js'))
         .pipe(gp_sourcemaps.write())
         .pipe(gulp.dest(distFolder))
         .on('error', onError);

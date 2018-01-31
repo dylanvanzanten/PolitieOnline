@@ -39,11 +39,7 @@
     display: block;
   }
   #road-content-component {
-    // background: url('./images/street_end.png');
-    // background-size: auto 100%;
-    // background-position: -60px 0;
     overflow: hidden;
-    // z-index: -2;
     .background-overlap {
       width: 75%;
       height: 100%;
@@ -62,7 +58,7 @@
   }
 }
 
-@media only screen and (min-width:60.000em) {
+@media only screen and (min-width:48.000em) {
   #road-content-component .background-overlap {
     width: 60%;
   }
