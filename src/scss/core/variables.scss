@@ -101,12 +101,17 @@
     }
   }
 
-  a, button {
+  a,
+  button {
     cursor: pointer;
     -webkit-transform: translate3d(0);
     transform: translate3d(0);
     -webkit-transition: all .4s ease;
     transition: all .4s ease;
+  }
+
+  button:focus {
+    outline: none;
   }
 
   a {
@@ -155,14 +160,41 @@
   .btn-wrapper {
     margin: 1.5em auto;
     display: flex;
-    -webkit-box-pack: justify;
-    justify-content: space-between;
     order: 3;
   }
 
   .btn-wrapper.btn-street {
     margin: -6.5em 0;
     z-index: 10;
+    .btn {
+      display: none;
+    }
+  }
+
+  .btn.c2a.show {
+    position: absolute;
+    display: block;
+    top: 90%;
+  }
+
+  .btn.c2a.show:first-child {
+    left: 14%;
+  }
+
+  .btn.c2a.show:nth-child(2) {
+    left: 23.5%;
+  }
+
+  .btn.c2a.show:nth-child(3) {
+    left: 49%;
+  }
+
+  .btn.c2a.show:nth-child(4) {
+    left: 61.5%;
+  }
+
+  .btn.c2a.show:nth-child(5) {
+    left: 75%;
   }
 
   .btn {
@@ -208,7 +240,7 @@
 
   @media only screen and (min-width:48.000em) {
     .line {
-  width: 100%;
+      width: 100%;
     }
     .line img {
       max-width: 100%;
@@ -228,7 +260,8 @@
   }
 
   @media only screen and (min-width:48em) {
-    .line-top.end, .line-bottom.end {
+    .line-top.end,
+    .line-bottom.end {
       z-index: 1;
     }
     .line-top.end {
@@ -242,7 +275,7 @@
   @media only screen and (min-width:48.000em) {
     .line {
       position: absolute;
-      display: block; 
+      display: block;
     }
   }
 
